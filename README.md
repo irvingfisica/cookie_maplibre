@@ -1,4 +1,4 @@
-Template para generar una web para dataviz
+Template para generar una web para mapa interactivo usando MapLibre
 ====================
 
 Este es un template para generar una web para mapas usando:
