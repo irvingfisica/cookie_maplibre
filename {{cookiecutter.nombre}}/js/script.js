@@ -29,7 +29,7 @@ Promise.all(stl).then(function(data){
         }
     };
 
-    let mbase = {{cookiecutter.data}};
+    let mbase = {{cookiecutter.mapabase}};
     if (mbase == "OSM"){
         style = {
             "version": 8,
