@@ -2,5 +2,5 @@
     "nombre": "Nombre del proyecto",
     "titulo": "Titulo de la web",
     "descripcion": "Descripción de la web",
-    "mapabase": "OSM/propio"
+    "mapabase": "\"OSM\""
 }

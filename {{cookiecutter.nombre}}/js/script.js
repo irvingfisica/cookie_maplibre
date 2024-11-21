@@ -30,7 +30,7 @@ Promise.all(stl).then(function(data){
     };
 
     let mbase = {{cookiecutter.mapabase}};
-    if (mbase == "OSM"){
+    if (mbase != "I2"){
         style = {
             "version": 8,
             "sources": {
